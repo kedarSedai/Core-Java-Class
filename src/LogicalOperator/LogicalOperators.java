@@ -35,8 +35,5 @@ public class LogicalOperators {
         } else {
             System.out.println("Not Greater than 5");
         }
-
     }
-
-
 }
