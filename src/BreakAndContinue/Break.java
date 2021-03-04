@@ -10,6 +10,7 @@ public class Break {
             if (i == 4) {
                 System.out.println(i);
                 break;
+                //continue;
             }
 //            System.out.println(i);
         }
