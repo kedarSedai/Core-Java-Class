@@ -7,12 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72868bcd-f39e-488b-b8dd-81293f81fd93" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Encapsulation/EncapslationInput.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Encapsulation/OutputEncaps.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MultiDimensionalArray/ArrayInput.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MultiDimensionalArray/ArrayOutput.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaClass/ExceptionHandling/ThrowAndThrows/ThrowKeyword.class" afterPath="$PROJECT_DIR$/out/production/JavaClass/ExceptionHandling/ThrowAndThrows/ThrowKeyword.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AbstractionMethods/Bank.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AbstractionMethods/Nic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AbstractionMethods/OutputAbstract.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Constructors/InputConstructor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Constructors/OutputConstructor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Inheritances/MultiLevel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Inheritances/OutputSingleInheritance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Inheritances/SingleInheritance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Super/DerivedClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Super/SuerInput.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaClass/MultiDimensionalArray/ArrayInput.class" afterPath="$PROJECT_DIR$/out/production/JavaClass/MultiDimensionalArray/ArrayInput.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MultiDimensionalArray/ArrayInput.java" afterPath="$PROJECT_DIR$/src/MultiDimensionalArray/ArrayInput.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,107 +32,117 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ThrowKeyword.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExceptionHandling/ThrowAndThrows/ThrowKeyword.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThrowsKeyword.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExceptionHandling/Throws/ThrowsKeyword.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="66" lean-forward="false" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stringinputs.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StringInput/Stringinputs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OutputClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StringInput/OutputClass.java">
+      <file leaf-file-name="InputConstructor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Constructors/InputConstructor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayInput.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MultiDimensionalArray/ArrayInput.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="19" column="48" lean-forward="false" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EncapslationInput.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Encapsulation/EncapslationInput.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="29" selection-end-column="5" />
+              <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
               <folding>
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
-                <element signature="e#438#439#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OutputEncaps.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Encapsulation/OutputEncaps.java">
+      <file leaf-file-name="OutputConstructor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Constructors/OutputConstructor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="64" lean-forward="false" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingleInheritance.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Inheritances/SingleInheritance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
+              <folding>
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OutputSingleInheritance.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Inheritances/OutputSingleInheritance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SuerInput.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Super/SuerInput.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DerivedClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Super/DerivedClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding>
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bank.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AbstractionMethods/Bank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Nic.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AbstractionMethods/Nic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <folding>
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OutputAbstract.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AbstractionMethods/OutputAbstract.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayOutput.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MultiDimensionalArray/ArrayOutput.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OutputClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExceptionHandling/ThrowAndThrows/OutputClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SwitchClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Switch/SwitchClass.java">
+      <file leaf-file-name="MultiLevel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Inheritances/MultiLevel.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
@@ -139,6 +156,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -185,6 +203,16 @@
         <option value="$PROJECT_DIR$/src/Encapsulation/EncapslationInput.java" />
         <option value="$PROJECT_DIR$/src/Encapsulation/OutputEncaps.java" />
         <option value="$PROJECT_DIR$/src/MultiDimensionalArray/ArrayInput.java" />
+        <option value="$PROJECT_DIR$/src/Constructors/InputConstructor.java" />
+        <option value="$PROJECT_DIR$/src/Constructors/OutputConstructor.java" />
+        <option value="$PROJECT_DIR$/src/Inheritances/SingleInheritance.java" />
+        <option value="$PROJECT_DIR$/src/Inheritances/MultiLevel.java" />
+        <option value="$PROJECT_DIR$/src/Inheritances/OutputSingleInheritance.java" />
+        <option value="$PROJECT_DIR$/src/Super/SuerInput.java" />
+        <option value="$PROJECT_DIR$/src/Super/DerivedClass.java" />
+        <option value="$PROJECT_DIR$/src/AbstractionMethods/Bank.java" />
+        <option value="$PROJECT_DIR$/src/AbstractionMethods/Nic.java" />
+        <option value="$PROJECT_DIR$/src/AbstractionMethods/OutputAbstract.java" />
       </list>
     </option>
   </component>
@@ -218,6 +246,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -255,14 +285,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="out" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AbstractionMethods" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -285,67 +317,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayOutput">
-    <configuration default="false" name="OutputClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ExceptionHandling.Throws.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.Throws.OutputClass" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaClass" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="OutputClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="StringInput.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="StringInput.OutputClass" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaClass" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="OutputClass (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ExceptionHandling.ThrowAndThrows.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.ThrowAndThrows.OutputClass" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaClass" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.OutputAbstract">
     <configuration default="false" name="ArrayOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -374,6 +346,66 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Encapsulation.OutputEncaps" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaClass" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="OutputConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Constructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Constructors.OutputConstructor" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaClass" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DerivedClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Super.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Super.DerivedClass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaClass" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="OutputAbstract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="AbstractionMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="AbstractionMethods.OutputAbstract" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -774,19 +806,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.OutputClass" />
-      <item index="1" class="java.lang.String" itemvalue="Application.OutputClass (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.OutputClass (2)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ArrayOutput" />
-      <item index="4" class="java.lang.String" itemvalue="Application.OutputEncaps" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ArrayOutput" />
+      <item index="1" class="java.lang.String" itemvalue="Application.OutputEncaps" />
+      <item index="2" class="java.lang.String" itemvalue="Application.OutputConstructor" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DerivedClass" />
+      <item index="4" class="java.lang.String" itemvalue="Application.OutputAbstract" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ArrayOutput" />
-        <item index="1" class="java.lang.String" itemvalue="Application.OutputEncaps" />
-        <item index="2" class="java.lang.String" itemvalue="Application.OutputClass (2)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.OutputClass" />
-        <item index="4" class="java.lang.String" itemvalue="Application.OutputClass (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.OutputAbstract" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DerivedClass" />
+        <item index="2" class="java.lang.String" itemvalue="Application.OutputConstructor" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ArrayOutput" />
+        <item index="4" class="java.lang.String" itemvalue="Application.OutputEncaps" />
       </list>
     </recent_temporary>
   </component>
@@ -812,15 +844,18 @@
       <workItem from="1614823270134" duration="3588000" />
       <workItem from="1614829821479" duration="602000" />
       <workItem from="1614909700540" duration="3719000" />
-      <workItem from="1614915789411" duration="243000" />
+      <workItem from="1614915789411" duration="1429000" />
+      <workItem from="1615167645427" duration="2942000" />
+      <workItem from="1615253938733" duration="2950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18773000" />
+    <option name="totallyTimeSpent" value="25851000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -837,7 +872,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1749634" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1749634" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -861,7 +896,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -870,77 +905,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Switch/SwitchOutput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BreakAndContinue/OutoutBreak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BreakAndContinue/Break.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/loop/ForClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/loop/ForOutput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/loop/WhileLoop/WhileClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/loop/WhileLoop/WhileOutput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/loop/DoWhile/DoWhile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/loop/DoWhile/OutputDoWhile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Switch/SwitchClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Switch/SwitchOutput.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1015,13 +979,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Comparison/ComparisonOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="9" lean-forward="false" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1109,20 +1066,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BreakAndContinue/OutoutBreak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BreakAndContinue/Break.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ExceptionHandling/TryAndCatch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1158,19 +1101,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExceptionHandling/ThrowAndThrows/ThrowKeyword.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ExceptionHandling/Throws/ThrowsKeyword.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="66" lean-forward="false" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1178,7 +1112,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1186,48 +1119,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiDimensionalArray/ArrayInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExceptionHandling/ThrowAndThrows/OutputClass.java">
+    <entry file="file://$PROJECT_DIR$/src/ExceptionHandling/ThrowAndThrows/ThrowKeyword.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Switch/SwitchClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Encapsulation/EncapslationInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Encapsulation/OutputEncaps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="254">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1235,14 +1141,158 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExceptionHandling/ThrowAndThrows/OutputClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Switch/SwitchClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Encapsulation/OutputEncaps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MultiDimensionalArray/ArrayInput.java">
+    <entry file="file://$PROJECT_DIR$/src/Encapsulation/EncapslationInput.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="19" column="48" lean-forward="false" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        <state relative-caret-position="306">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Comparison/ComparisonOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BreakAndContinue/OutoutBreak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BreakAndContinue/Break.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Constructors/InputConstructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Constructors/OutputConstructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="64" lean-forward="false" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Inheritances/SingleInheritance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Inheritances/MultiLevel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Inheritances/OutputSingleInheritance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Super/SuerInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Super/DerivedClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractionMethods/Nic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractionMethods/OutputAbstract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractionMethods/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
           <folding />
         </state>
       </provider>

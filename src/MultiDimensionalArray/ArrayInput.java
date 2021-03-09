@@ -8,7 +8,6 @@ public class ArrayInput {
     //int [] arr = {1,2,3};
     // int [] arr = new int [array_size];
 
-
     //Addition of 2 * 2 Matrix
     public void getArray() {
         int[][] arr = {{1, 2, 3}, {4, 5, 5}, {1, 2, 3}};
