@@ -7,7 +7,7 @@ import java.util.Collections;
  * Created by kedar on 3/10/2021.
  */
 public class ArrayLists {
-    public void printArrayLists(){
+    public void printArrayLists() {
         ArrayList<String> arrayList = new ArrayList<String>();
         arrayList.add("Apple");
         arrayList.add("Banana");
@@ -17,7 +17,8 @@ public class ArrayLists {
         Collections.sort(arrayList);
 
         System.out.println(arrayList);
-        System.out.println(arrayList.indexOf("Apple"));
+        System.out.println("Index of the Apple arrays is " + arrayList.indexOf("Apple"));
+        System.out.println("Size of the Arrays is : " + arrayList.size());
 
     }
 }
