@@ -1,6 +1,4 @@
-package ArrayLists;
-
-import java.util.ArrayList;
+package Collection.HashMaps.ArrayLists;
 
 /**
  * Created by kedar on 3/10/2021.
