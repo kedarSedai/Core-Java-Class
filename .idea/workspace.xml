@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="JavaClass:jar" />
-    </artifacts-to-build>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="72868bcd-f39e-488b-b8dd-81293f81fd93" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FileReaders/FileReaders.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FileReaders/FileWriters/FileWriters.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FileReaders/FileWriters/Output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FileReaders/FileWriters/OutputFiles.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FileReaders/OutputFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FileReaders/input" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaClass/ArrayLists/ArrayLists.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaClass/ArrayLists/OutputClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaClass/HashMaps/HashMapsInput.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaClass/HashMaps/OutputHashMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaClass/HashSet/HashSets.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaClass/HashSet/OutputHashSet.class" afterPath="" />
+    <list default="true" id="f7052953-41dc-4a61-b876-0c37426f2b95" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InterViewPreparation/ReverseString/ReverseInput.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InterViewPreparation/ReverseString/ReverseOutput.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InterViewPreparation/ReverseString/VowelCheck/VowelInput.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InterViewPreparation/ReverseString/VowelCheck/VowelOutput.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/JavaClass_jar.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,104 +23,22 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HashMapsInput.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Collection/HashMaps/HashMaps/HashMapsInput.java">
+    <leaf>
+      <file leaf-file-name="VowelInput.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/InterViewPreparation/ReverseString/VowelCheck/VowelInput.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashSets.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Collection/HashMaps/HashSet/HashSets.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OutputHashSet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Collection/HashMaps/HashSet/OutputHashSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OutputHashMap.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Collection/HashMaps/HashMaps/OutputHashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileReaders.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FileReaders/FileReaders.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileWriters.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/FileReaders/FileWriters/FileWriters.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OutputFiles.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FileReaders/FileWriters/OutputFiles.java">
+      <file leaf-file-name="VowelOutput.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/InterViewPreparation/ReverseString/VowelCheck/VowelOutput.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Output" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FileReaders/FileWriters/Output">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OutputFile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FileReaders/OutputFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="input" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FileReaders/input">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="21" />
+              <caret line="8" column="53" lean-forward="false" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -139,8 +49,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -156,57 +64,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Super/SuerInput.java" />
-        <option value="$PROJECT_DIR$/src/Super/DerivedClass.java" />
-        <option value="$PROJECT_DIR$/src/AbstractionMethods/Bank.java" />
-        <option value="$PROJECT_DIR$/src/AbstractionMethods/Nic.java" />
-        <option value="$PROJECT_DIR$/src/AbstractionMethods/OutputAbstract.java" />
-        <option value="$PROJECT_DIR$/src/Inheritances/SingleInheritance/Animal.java" />
-        <option value="$PROJECT_DIR$/src/Inheritances/SingleInheritance/OutputAnimal.java" />
-        <option value="$PROJECT_DIR$/src/Inheritances/SingleInheritance/Cow.java" />
-        <option value="$PROJECT_DIR$/src/Inheritances/MultilevelInheritance/Animal.java" />
-        <option value="$PROJECT_DIR$/src/Inheritances/MultilevelInheritance/Tiger.java" />
-        <option value="$PROJECT_DIR$/src/Inheritances/MultilevelInheritance/Outout.java" />
-        <option value="$PROJECT_DIR$/src/Inheritances/MultilevelInheritance/Output.java" />
-        <option value="$PROJECT_DIR$/src/Inheritances/HirerachericalInheritance/Father.java" />
-        <option value="$PROJECT_DIR$/src/Inheritances/HirerachericalInheritance/OutputClass.java" />
-        <option value="$PROJECT_DIR$/src/Inheritances/HirerachericalInheritance/Son.java" />
-        <option value="$PROJECT_DIR$/src/Inheritances/HirerachericalInheritance/Daughter.java" />
-        <option value="$PROJECT_DIR$/src/Try.java" />
-        <option value="$PROJECT_DIR$/src/OutputTry.java" />
-        <option value="$PROJECT_DIR$/src/Try/A.java" />
-        <option value="$PROJECT_DIR$/src/Try/C.java" />
-        <option value="$PROJECT_DIR$/src/Try/B.java" />
-        <option value="$PROJECT_DIR$/src/Try/Output.java" />
-        <option value="$PROJECT_DIR$/src/Interfaces/Car.java" />
-        <option value="$PROJECT_DIR$/src/Interfaces/Bike.java" />
-        <option value="$PROJECT_DIR$/src/Interfaces/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/Interfaces/MultipleInheritance/Bike.java" />
-        <option value="$PROJECT_DIR$/src/Interfaces/MultipleInheritance/Car.java" />
-        <option value="$PROJECT_DIR$/src/Interfaces/MultipleInheritance/OutputClass.java" />
-        <option value="$PROJECT_DIR$/src/Interfaces/MultipleInheritance/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/GetterAndSetter.java" />
-        <option value="$PROJECT_DIR$/src/GetterAndSetter/GetterAndSetter.java" />
-        <option value="$PROJECT_DIR$/src/GetterAndSetter/OutputClass.java" />
-        <option value="$PROJECT_DIR$/src/BreakAndContinue/ArrayLists.java" />
-        <option value="$PROJECT_DIR$/src/ArrayLists/OutputClass.java" />
-        <option value="$PROJECT_DIR$/src/ArrayLists/ArrayLists.java" />
-        <option value="$PROJECT_DIR$/src/Finally/Classs.java" />
-        <option value="$PROJECT_DIR$/src/HashMaps/OutputHashMap.java" />
-        <option value="$PROJECT_DIR$/src/HashMaps/HashMapsInput.java" />
-        <option value="$PROJECT_DIR$/src/HashSet/OutputHashSet.java" />
-        <option value="$PROJECT_DIR$/src/HashSet/HashSets.java" />
-        <option value="$PROJECT_DIR$/src/Collection/HashMaps/HashSet/OutputHashSet.java" />
-        <option value="$PROJECT_DIR$/src/Collection/HashMaps/HashMaps/HashMapsInput.java" />
-        <option value="$PROJECT_DIR$/src/Collection/HashMaps/HashMaps/OutputHashMap.java" />
-        <option value="$PROJECT_DIR$/src/javaFile/OutputFile.java" />
-        <option value="$PROJECT_DIR$/src/javaFile/FileReaders.java" />
-        <option value="$PROJECT_DIR$/src/javaFile/TextFile" />
-        <option value="$PROJECT_DIR$/src/FileReaders/input" />
-        <option value="$PROJECT_DIR$/src/FileReaders/OutputFile.java" />
-        <option value="$PROJECT_DIR$/src/FileReaders/FileReaders.java" />
-        <option value="$PROJECT_DIR$/src/FileReaders/FileWriters/FileWriters.java" />
-        <option value="$PROJECT_DIR$/src/FileReaders/FileWriters/OutputFiles.java" />
+        <option value="$PROJECT_DIR$/src/InterviewPreparation/ReverseString/ReverseInput.java" />
+        <option value="$PROJECT_DIR$/src/InterviewPreparation/ReverseString/ReverseOutput.java" />
+        <option value="$PROJECT_DIR$/src/InterviewPreparation/ReverseString/ReverseString/ReverseInput.java" />
+        <option value="$PROJECT_DIR$/src/InterviewPreparation/ReverseString/ReverseString/ReverseOutput.java" />
+        <option value="$PROJECT_DIR$/src/InterViewPreparation/ReverseString/ReverseOutput.java" />
+        <option value="$PROJECT_DIR$/src/InterViewPreparation/ReverseString/ReverseInput.java" />
+        <option value="$PROJECT_DIR$/src/InterViewPreparation/ReverseString/VowelCheck/VowelOutput.java" />
+        <option value="$PROJECT_DIR$/src/InterViewPreparation/ReverseString/VowelCheck/VowelInput.java" />
       </list>
     </option>
   </component>
@@ -222,7 +87,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -240,28 +105,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JavaClass" />
+              <option name="myItemId" value="Core-Java-Class" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JavaClass" />
+              <option name="myItemId" value="Core-Java-Class" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JavaClass" />
+              <option name="myItemId" value="Core-Java-Class" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JavaClass" />
+              <option name="myItemId" value="Core-Java-Class" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -271,11 +135,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JavaClass" />
+              <option name="myItemId" value="Core-Java-Class" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JavaClass" />
+              <option name="myItemId" value="Core-Java-Class" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -283,22 +147,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="FileReaders" />
+              <option name="myItemId" value="ReverseString" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -312,15 +172,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OutputFiles">
-    <configuration default="false" name="OutputHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.VowelOutput">
+    <configuration default="false" name="ReverseOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Collection.HashMaps.HashMaps.*" />
+          <option name="PATTERN" value="InterviewPreparation.ReverseString.ReverseString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Collection.HashMaps.HashMaps.OutputHashMap" />
+      <option name="MAIN_CLASS_NAME" value="InterviewPreparation.ReverseString.ReverseString.ReverseOutput" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -329,18 +189,18 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaClass" />
+      <module name="Core-Java-Class" />
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="OutputHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ReverseOutput (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Collection.HashMaps.HashSet.*" />
+          <option name="PATTERN" value="InterViewPreparation.ReverseString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Collection.HashMaps.HashSet.OutputHashSet" />
+      <option name="MAIN_CLASS_NAME" value="InterViewPreparation.ReverseString.ReverseOutput" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -349,18 +209,18 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaClass" />
+      <module name="Core-Java-Class" />
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="OutputFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="VowelOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="javaFile.*" />
+          <option name="PATTERN" value="InterViewPreparation.ReverseString.VowelCheck.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="javaFile.OutputFile" />
+      <option name="MAIN_CLASS_NAME" value="InterViewPreparation.ReverseString.VowelCheck.VowelOutput" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -369,47 +229,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaClass" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="OutputFile (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="FileReaders.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="FileReaders.OutputFile" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaClass" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="OutputFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="FileReaders.FileWriters.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="FileReaders.FileWriters.OutputFiles" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaClass" />
+      <module name="Core-Java-Class" />
       <envs />
       <method />
     </configuration>
@@ -650,7 +470,6 @@
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
-      <setting name="depsClasspath" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -720,7 +539,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaClass" />
+      <module name="Core-Java-Class" />
       <envs />
       <method />
     </configuration>
@@ -779,12 +598,6 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -800,97 +613,68 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.OutputHashMap" />
-      <item index="1" class="java.lang.String" itemvalue="Application.OutputHashSet" />
-      <item index="2" class="java.lang.String" itemvalue="Application.OutputFile" />
-      <item index="3" class="java.lang.String" itemvalue="Application.OutputFile (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.OutputFiles" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.ReverseOutput" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ReverseOutput (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.VowelOutput" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.OutputFiles" />
-        <item index="1" class="java.lang.String" itemvalue="Application.OutputFile (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.OutputFile" />
-        <item index="3" class="java.lang.String" itemvalue="Application.OutputHashSet" />
-        <item index="4" class="java.lang.String" itemvalue="Application.OutputHashMap" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.VowelOutput" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ReverseOutput (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ReverseOutput" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="72868bcd-f39e-488b-b8dd-81293f81fd93" name="Default" comment="" />
-      <created>1614658450248</created>
+      <changelist id="f7052953-41dc-4a61-b876-0c37426f2b95" name="Default" comment="" />
+      <created>1621506556374</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1614658450248</updated>
-      <workItem from="1614658455403" duration="3732000" />
-      <workItem from="1614675487272" duration="25000" />
-      <workItem from="1614681951058" duration="312000" />
-      <workItem from="1614682306593" duration="15000" />
-      <workItem from="1614735419691" duration="5644000" />
-      <workItem from="1614743129525" duration="893000" />
-      <workItem from="1614823270134" duration="3588000" />
-      <workItem from="1614829821479" duration="602000" />
-      <workItem from="1614909700540" duration="3719000" />
-      <workItem from="1614915789411" duration="1429000" />
-      <workItem from="1615167645427" duration="2942000" />
-      <workItem from="1615253938733" duration="2950000" />
-      <workItem from="1615296994965" duration="2794000" />
-      <workItem from="1615322562509" duration="1927000" />
-      <workItem from="1615340463535" duration="2289000" />
-      <workItem from="1615348433347" duration="2062000" />
-      <workItem from="1615446639311" duration="3505000" />
-      <workItem from="1615513410051" duration="1372000" />
-      <workItem from="1615523863465" duration="1624000" />
-      <workItem from="1615765541658" duration="2204000" />
-      <workItem from="1615771979052" duration="3080000" />
-      <workItem from="1615779911745" duration="12000" />
+      <updated>1621506556374</updated>
+      <workItem from="1621506565460" duration="1905000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46720000" />
+    <option name="totallyTimeSpent" value="1905000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22239748" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1749634" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -901,7 +685,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -910,225 +694,18 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Inheritances/OutputSingleInheritance.java" />
-    <entry file="file://$PROJECT_DIR$/src/Inheritances/SingleInheritance.java" />
-    <entry file="file://$PROJECT_DIR$/src/AbstractionMethods/Nic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractionMethods/OutputAbstract.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Inheritances/MultiLevel.java" />
-    <entry file="file://$PROJECT_DIR$/src/Inheritances/SingleInheritance/OutputAnimal.java" />
-    <entry file="file://$PROJECT_DIR$/src/Inheritances/SingleInheritance/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Inheritances/SingleInheritance/Cow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Super/SuerInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Super/DerivedClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Inheritances/MultilevelInheritance/Output.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Inheritances/MultilevelInheritance/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Inheritances/MultilevelInheritance/Tiger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Inheritances/HirerachericalInheritance/Father.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Inheritances/HirerachericalInheritance/Daughter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="90" lean-forward="false" selection-start-line="7" selection-start-column="90" selection-end-line="7" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Inheritances/HirerachericalInheritance/Son.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Inheritances/HirerachericalInheritance/OutputClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OutputTry.java" />
-    <entry file="file://$PROJECT_DIR$/src/Try.java" />
-    <entry file="file://$PROJECT_DIR$/src/Try/A.java" />
-    <entry file="file://$PROJECT_DIR$/src/Try/C.java" />
-    <entry file="file://$PROJECT_DIR$/src/Try/B.java" />
-    <entry file="file://$PROJECT_DIR$/src/Try/Output.java" />
-    <entry file="file://$PROJECT_DIR$/src/Interfaces/MultipleInheritance/Car.interface" />
-    <entry file="file://$PROJECT_DIR$/src/Interfaces/MultipleInheritance/Bike.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Interfaces/MultipleInheritance/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Interfaces/MultipleInheritance/OutputClass.java" />
-    <entry file="file://$PROJECT_DIR$/src/Interfaces/MultipleInheritance/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GetterAndSetter/GetterAndSetter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="27" column="64" lean-forward="false" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GetterAndSetter/OutputClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Finally/Classs.java" />
-    <entry file="file://$PROJECT_DIR$/src/Constructors/InputConstructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Constructors/OutputConstructor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Collection/HashMaps/ArrayLists/ArrayLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Collection/HashMaps/ArrayLists/OutputClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Interfaces/Bike.java">
+    <entry file="file://$PROJECT_DIR$/src/Constructors/InputConstructor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Interfaces/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Interfaces/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Collection/HashMaps/HashSet/HashSets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Collection/HashMaps/HashSet/OutputHashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Collection/HashMaps/HashMaps/HashMapsInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaFile/OutputFile.java" />
-    <entry file="file://$PROJECT_DIR$/src/javaFile/TextFile" />
-    <entry file="file://$PROJECT_DIR$/src/javaFile/FileReaders.java" />
-    <entry file="file://$PROJECT_DIR$/src/Collection/HashMaps/HashMaps/OutputHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -1136,140 +713,42 @@
     <entry file="file://$PROJECT_DIR$/src/FileReaders/input">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="21" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileReaders/OutputFile.java">
+    <entry file="file://$PROJECT_DIR$/src/InterViewPreparation/ReverseString/ReverseInput.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="238">
+          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileReaders/FileReaders.java">
+    <entry file="file://$PROJECT_DIR$/src/InterViewPreparation/ReverseString/ReverseOutput.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileReaders/FileWriters/OutputFiles.java">
+    <entry file="file://$PROJECT_DIR$/src/InterViewPreparation/ReverseString/VowelCheck/VowelOutput.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <caret line="8" column="53" lean-forward="false" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileReaders/FileWriters/Output">
+    <entry file="file://$PROJECT_DIR$/src/InterViewPreparation/ReverseString/VowelCheck/VowelInput.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="8" />
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileReaders/FileWriters/FileWriters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>JavaClass:jar</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.5" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>JavaClass</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
