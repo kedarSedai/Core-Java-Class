@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77b89b6c-8d20-48b9-b7af-23fc705da020" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InterviewPrep/CountWords/CountWord.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core-Java-Class.iml" afterPath="$PROJECT_DIR$/Core-Java-Class.iml" />
-    </list>
+    <list default="true" id="77b89b6c-8d20-48b9-b7af-23fc705da020" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,8 +58,8 @@
       <file leaf-file-name="CountWord.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/InterviewPrep/CountWords/CountWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+            <state relative-caret-position="119">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="11" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -624,12 +616,12 @@
       <updated>1630125074137</updated>
       <workItem from="1630125086518" duration="627000" />
       <workItem from="1630246087700" duration="559000" />
-      <workItem from="1630425133139" duration="340000" />
+      <workItem from="1630425133139" duration="1142000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1526000" />
+    <option name="totallyTimeSpent" value="2328000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -753,8 +745,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/InterviewPrep/CountWords/CountWord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="11" selection-end-column="28" />
           <folding />
         </state>
       </provider>
